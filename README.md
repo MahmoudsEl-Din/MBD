@@ -3,7 +3,7 @@ MATLAB and Model Based Design
 
 # Repository Overview
 
-This repository is organized into: MATLAB and Model-Based Design (MBD). Each directory contains a the tasks submission of topics related to MATLAB programming and Model-Based Design in Simulink, respectively.
+This repository is organized into: MATLAB and Model-Based Design (MBD). Each directory contains the tasks submission of topics related to MATLAB programming and Model-Based Design in Simulink, respectively.
 
 ## MATLAB Directory
 
